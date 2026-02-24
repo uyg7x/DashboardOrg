@@ -226,7 +226,7 @@ MIT ([GitHub][1])
 
 ## 👤 Author
 
-Dharmendra Bhagat
+PJY | 
 
 [1]: https://github.com/uyg7x/DashboardOrg "GitHub - uyg7x/DashboardOrg: designed as an internal dashboard for organizations. It provides secure Admin and Employee logins with role-based access, allowing admins to manage employee profiles and view organization insights while employees access only their own workspace"
 [2]: https://raw.githubusercontent.com/uyg7x/DashboardOrg/main/routes/auth.routes.js "raw.githubusercontent.com"
