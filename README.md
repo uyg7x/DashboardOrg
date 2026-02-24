@@ -71,7 +71,7 @@ Example `.env`:
 
 ```env
 PORT=5000
-MONGO_URI=mongodb://127.0.0.1:27017/dashboardOrg
+MONGO_URI=___url
 JWT_SECRET=change_this_to_a_long_random_secret
 
 # Optional (only if you want password-reset emails to send)
